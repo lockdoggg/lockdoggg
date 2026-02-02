@@ -13,4 +13,4 @@ I turn complex enterprise logs into actionable insights using Local LLMs.
 
 📫 **Contact me:**
 - [Telegram](https://t.me/konysbekov)
-- [LinkedIn](www.linkedin.com/in/aibekkonysbekov)
+- [LinkedIn](linkedin.com/in/aibekkonysbekov
